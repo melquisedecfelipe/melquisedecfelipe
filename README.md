@@ -1,9 +1,8 @@
 ### Hi there :wave:, I'm Melquisedec
 #### better known as Melqui
 
-- :beers: I’m currently working on [<**ambev**tech/>](https://ambevtech.com.br/)
+- :beers: I’m currently working on [Mercado Livre](https://www.linkedin.com/company/mercadolivre-com/)
 - :books: I’m currently learning **Typescript, Next.js, React Native, GraphQL**
-- :telescope: How to reach me **[melquisedec.dev](https://melquisedec.dev/)**
+- :telescope: How to reach me **[melquisedec.dev](https://melquisedec.vercel.app/)**
 
 <a href="https://www.linkedin.com/in/melquisedecfelipe/">Linkedin</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://twitter.com/httpsmelqui">Twitter</a>
