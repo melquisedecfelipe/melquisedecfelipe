@@ -1,5 +1,6 @@
 ### Hi there :wave:, I'm Melquisedec
-#### better known as Melqui
+
+Better known as **Melqui**, working on `Front-End` since 2019.
 
 - :beers: I’m currently working on [Mercado Livre](https://www.linkedin.com/company/mercadolivre-com/)
 - :books: Currently stack **Next, Tailwind, Storybook, Playwright**
